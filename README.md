@@ -1,12 +1,15 @@
 # Welcome to Leon Chess app 👋
 
-This is an rapid developed app based on an [Expo](https://expo.dev) project and then use claude code to modify code based on game requirements.
+This project was initially scaffolded using [Expo]([Expo](https://expo.dev))  and rapidly iterated upon.
+
+The codebase has been further enhanced and modified using Claude Code to meet specific game requirements.
 
 ## Get started
-   ```bash
-   npx expo start
-   ```
-   
-## Screenshot
-![Screenshot on iOS Simulator](./screenshot-ios.png)
 
+```bash
+npx expo start
+```
+
+## Screenshot
+
+![Screenshot on iOS Simulator](./screenshot-ios.png)
